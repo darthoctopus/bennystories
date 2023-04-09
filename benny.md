@@ -1,10 +1,11 @@
 ---
 title: Benny Stories
 author: Benjamin Berell Ferencz
-link-citations: true
 documentclass: book
 date: April 7, 2023
 toc: true
+classoption: 12pt, b5paper, openany
+mainfont: Garamond Premier Pro
 ---
 
 # Introduction
@@ -111,7 +112,7 @@ My mother remained on good terms with her cousin, my father, and I would visit o
 
 There is a period of my life between the ages of about seven to about thirteen that are my lost years. I was growing up in the Bronx and shuttling between my father and my mother, and from apartment to apartment when our inability to pay the rent inspired us to move. In 1929, the crash came. The banks were closed. No one could find work. My Mom worked as a dressmaker or hatmaker, and Dave was employed as a toolmaker or a watchman or whatever he could get to make ends meet. My father became a housepainter when he could find such work. It was a time of deep depression in more ways than one. I hated to go to the U.S. Government “home relief” station where surplus food was given away in the form of two-pound loaves of bread and blocks of frozen butter or American cheese. Once they gave away surplus green woolen sweaters. I was too embarrassed to wear one because all the other kids had the same garment and could recognize the source. My mother assigned chores to keep us busy around the house. My domineering sister served as foreman on the job. Slavery would have been easier.
 
-I attended various public schools in the Bronx, never staying long enough to make real friends. I loved to read and always had a public library card that was well used. My schooling was accelerated when teachers thought I could skip some of the lower classes. My size prevented my participation in popular sports such as basketball, football, or even baseball. Besides, my mother didn’t believe that such violent games were a way for a nice Jewish boy to behave. She objected to my joining the Boy Scouts because she thought it was a military organization. My only “buddy” was my stepmother’s nephew Lou Perlman, who was called “Mutchy,” short for “Mortimer,” which he was never called. [END NOTE 1] His mother and my stepmother were sisters and were very attached. The families always lived close to each other. We spent some happy summer weeks together in the Catskill Mountains where families could rent a room and share a kitchen at very modest cost. Air-conditioning was unheard of. People who couldn’t afford to go to the mountains slept on the roof or the fire-escapes to get some cool air. Vacations on the farm were spent entertaining ourselves and tossing horseshoes. There wasn’t much else to do besides killing hoards of mosquitoes. In short, I was, by inclination, as well as necessity, very much a loner. I don’t recall ever having been a normal adolescent.
+I attended various public schools in the Bronx, never staying long enough to make real friends. I loved to read and always had a public library card that was well used. My schooling was accelerated when teachers thought I could skip some of the lower classes. My size prevented my participation in popular sports such as basketball, football, or even baseball. Besides, my mother didn’t believe that such violent games were a way for a nice Jewish boy to behave. She objected to my joining the Boy Scouts because she thought it was a military organization. My only “buddy” was my stepmother’s nephew Lou Perlman, who was called “Mutchy,” short for “Mortimer,” which he was never called. His mother and my stepmother were sisters and were very attached. The families always lived close to each other. We spent some happy summer weeks together in the Catskill Mountains where families could rent a room and share a kitchen at very modest cost. Air-conditioning was unheard of. People who couldn’t afford to go to the mountains slept on the roof or the fire-escapes to get some cool air. Vacations on the farm were spent entertaining ourselves and tossing horseshoes. There wasn’t much else to do besides killing hoards of mosquitoes. In short, I was, by inclination, as well as necessity, very much a loner. I don’t recall ever having been a normal adolescent.
 
 During the depression years, no one I knew earned enough money to pay for both food and rent. Many landlords offered “concessions” to new tenants who would move into an apartment that had been suddenly and quietly vacated by the prior occupant. The new residents were allowed to live rent free for a few months. That was an amount we could afford. The family, consisting of my mother, my stepfather, now called “Uncle Dave,” my 12-year old sister and I, moved into a nice brick building in a good neighborhood in the Bronx. Of course, there was no elevator in the five story walk-up. The higher the dwelling, the lower the rent. We were given a vacancy near the roof. My mother would have preferred one higher up—she was a strong believer in fresh air.
 
@@ -1721,4 +1722,4 @@ In 1946, Ferencz married his teenage sweetheart, Gertrude Fried, in New York. Th
 
 Ferencz died at an assisted living facility in Boynton Beach, Florida, on April 7, 2023, at the age of 103. He was the last surviving prosecutor at the Nuremberg Trials.
 
-> *This document was created to preserve the online edition of the author's autobiography, originally published at <https://benferencz.org/stories/>.*
+> *This document was created to preserve the online edition of the author's autobiography, originally published at <https://benferencz.org/stories>.*
